@@ -1,21 +1,23 @@
 # Assignment 1
- CS648: Introduction to Modern Web Frameworks
+ _CS648: Introduction to Modern Web Frameworks_
  
 # Technologies
- 1. HTML
- 2. Github
+ _1. HTML_
+ 
+ _2. Github_
  
 # Editor
- 1. Visual Studio Code
+ _1. Visual Studio Code_
  
 # Scope
- 1. Introduction to Modern Web Frameworks
- 2. Understanding Github
- 3. Embedding basic html to visualize web page
+ _1. Introduction to Modern Web Frameworks_
+ 
+ _2. Understanding Github_
+ 
+ _3. Embedding basic html to visualize web page_
  
  # Instructor
- 1. Professor Zak Ruvalcaba
+ _1. Professor Zak Ruvalcaba_
  
  # Author
- 1. Aarti Dalvi
- 
+ _1. Aarti Dalvi_
